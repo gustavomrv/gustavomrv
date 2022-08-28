@@ -10,7 +10,7 @@ Oi, eu me chamo Gustavo Moura. Atualmente sou estudante de Ciências da Computa�
 - 💻 Estudando o necessário de front-end
 - 👀 Experimentando frameworks diferentes
 
-### :speech_balloon: Caso tenha se interessado, fale comigo pelo meu contato da bio.
+### :speech_balloon: Caso tenha se interessado, me mande um email: gustavomourago@gmail.com
 
 ## EN-US
 
@@ -20,7 +20,7 @@ Hi, I'm Gustavo Moura. I am currently a Computer Science student and Academic Re
 - 💻 Studying the necessary about front-end
 - 👀 Experimenting different frameworks
 
-### :speech_balloon: If you are interested, contact me through my bio contact.
+### :speech_balloon: If you are interested, send me an email: gustavomourago@gmail.com
 ---
 
 <div align = "center">
