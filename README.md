@@ -1,5 +1,3 @@
-<img src="giphy-downsized-large.gif" width="325px" align="right">
-
 # Hello, welcome to my GitHub!
 
 ## PT-BR
