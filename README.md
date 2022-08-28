@@ -6,6 +6,21 @@
 
 Oi, eu me chamo Gustavo Moura. Atualmente sou estudante de Ciências da Computação e Pesquisador Acadêmico.
 
+- 👩‍💻 Sempre aprendendo algo novo sobre back-end
+- 💻 Estudando o necessário de front-end
+- 👀 Experimentando frameworks diferentes
+
+### :speech_balloon: Caso tenha se interessado, fale comigo pelo meu contato da bio.
+
+## EN-US
+
+Hi, I'm Gustavo Moura. I am currently a Computer Science student and Academic Researcher.
+
+- 👩‍💻 Always learning something new about backend
+- 💻 Studying the necessary about front-end
+- 👀 Experimenting different frameworks
+
+### :speech_balloon: If you are interested, contact me through my bio contact.
 ---
 
 <div align = "center">
@@ -25,6 +40,7 @@ Oi, eu me chamo Gustavo Moura. Atualmente sou estudante de Ciências da Computa�
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
