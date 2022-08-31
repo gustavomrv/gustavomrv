@@ -43,5 +43,4 @@ Hi, I'm Gustavo Moura. I am currently a Computer Science student and Academic Re
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp; 
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" title="LaTex" alt="LaTex" width="40" height="40"/>&nbsp;
-  <img src="https://iconape.com/wp-content/png_logo_vector/kali-linux-logo.png" title="" alt="" width="40" height="40"/>&nbsp;
 </div>
